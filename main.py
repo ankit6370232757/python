@@ -38,5 +38,30 @@
 # a ="ANKIT RATH"
 # print(a[0:3:1])
 
-num = input("Tell me a number")
-print(num)
+# num = input("Tell me a number")
+# print(num)
+
+# a = 5
+# b = 32
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a//b)
+# print(5**3)
+# print(32%5)
+
+
+# print(12+4-3)
+
+# a= 20
+# print(a+(a+20))
+
+a= 12
+b = 12
+
+print(a== b)
+print ( a != b )
+print( a>= b)
+
+print( 23 > 78)
